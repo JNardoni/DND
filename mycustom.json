@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "custom",
+        "abbreviation": "JC",
+        "full": "Mine",
+        "authors": [
+          "Icarus"
+        ],
+        "convertedBy": [
+          "Icarus"
+        ],
+        "version": "1.0",
+        "url": ""
+      }
+    ],
+    "dateAdded": 1643685011,
+    "dateLastModified": 1644095508,
+    "_dateLastModifiedHash": "e06e3059bf"
+  },
+  "subclass": [
+    {
+      "name": "Mine",
+      "source": "MyCustom",
+      "shortName": "Mine",
+      "subclassFeatures": [
+      ],
+      "className": "Rogue",
+      "classSource": "PHB"
+    }
+  ],
+  "item": [
+    {
+      "name": "Amantia Cap",
+      "source": "MyCustom",
+      "page": 1,
+      "type": "G",
+      "rarity": "common",
+      "weight": 0,
+      "value": 2,
+      "entries": [
+        "Large mushroom that grows in clusters. It has a bold, blue stem and a large red cap. Professional herbalists often cut the head from the root, and the head can regrow in a few weeks. The spores from the cap are known to cause faintness when entering an unfortune bloodstream."
+      ]
+    }
+  ]
+}
