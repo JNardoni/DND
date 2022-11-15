@@ -14,28 +14,12 @@
         "version": "1.0",
         "url": ""
       }
-    ],
-    "dateAdded": 1643685011,
-    "dateLastModified": 1644095508,
-    "_dateLastModifiedHash": "e06e3059bf"
+    ]
   },
-  "subclass": [
-    {
-      "name": "Mine",
-      "source": "MyCustom",
-      "shortName": "Mine",
-      "subclassFeatures": [
-      ],
-      "className": "Rogue",
-      "classSource": "PHB"
-    }
-  ],
   "item": [
     {
       "name": "Amantia Cap",
-      "source": "MyCustom",
-      "page": 1,
-      "type": "G",
+      "type": "Herb",
       "rarity": "common",
       "weight": 0,
       "value": 2,
